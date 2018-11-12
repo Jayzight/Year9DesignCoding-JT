@@ -12,10 +12,10 @@ num4 = int(num4)
 if num1 == 8 or num1 == 9:
 	if num2 == num3:
 		if num4 == 8 or num1 == 9:
-			print ("ignore")
+			print ("answer")
 		else:
-			print("answer")
+			print("ignore")
 	else:
-		print("answer")
+		print("ignore")
 else:
-	print("answer")
+	print("ignore")
