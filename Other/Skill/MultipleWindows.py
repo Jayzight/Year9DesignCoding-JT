@@ -5,8 +5,7 @@ LARGE_FONT= ("Verdana", 20)
 
 def enter():
     root2 = tk.Tk()
-
-    btn2 = tk.Button(root, text="Open New Window", root2.destroy())
+   
 
 
 
